@@ -1,1 +1,1 @@
-# FurnitureShop  - project html demo
+# FurnitureShop  - project html demo with TailwindCss
