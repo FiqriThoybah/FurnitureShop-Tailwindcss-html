@@ -1,1 +1,1 @@
-# BWAFEHO - luxspace demo
+# FurnitureShop  - project html demo
